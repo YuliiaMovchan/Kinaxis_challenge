@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kinaxis-challenge/static/css/main.e6c13ad2.css",
-    "main.js": "/kinaxis-challenge/static/js/main.c6d947c3.js",
-    "index.html": "/kinaxis-challenge/index.html",
-    "main.e6c13ad2.css.map": "/kinaxis-challenge/static/css/main.e6c13ad2.css.map",
-    "main.c6d947c3.js.map": "/kinaxis-challenge/static/js/main.c6d947c3.js.map"
+    "main.css": "/Kinaxis_challenge/static/css/main.e6c13ad2.css",
+    "main.js": "/Kinaxis_challenge/static/js/main.aa4c3112.js",
+    "index.html": "/Kinaxis_challenge/index.html",
+    "main.e6c13ad2.css.map": "/Kinaxis_challenge/static/css/main.e6c13ad2.css.map",
+    "main.aa4c3112.js.map": "/Kinaxis_challenge/static/js/main.aa4c3112.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c6d947c3.js"
+    "static/js/main.aa4c3112.js"
   ]
 }
