@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`becomes editable after clicking Edit button 1`] = `
+<div
+  className="sc-bczRLJ hPwQWx"
+>
+  <label
+    className="sc-dkzDqf cHkOaT"
+    contentEditable={true}
+    htmlFor="123"
+    suppressContentEditableWarning={true}
+  >
+    some note
+  </label>
+  <div
+    className="sc-gsnTZi fFWGpK"
+  >
+    <input
+      checked={true}
+      className="sc-hKMtZM klVUjV"
+      id="123some note"
+      onChange={[Function]}
+      type="checkbox"
+    />
+    <button
+      className="sc-eCYdqJ fzDQYo"
+      onClick={[Function]}
+    >
+      Save
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders with completed=false 1`] = `
+<div
+  className="sc-bczRLJ lkLdxK"
+>
+  <label
+    className="sc-dkzDqf cHkOaT"
+    contentEditable={false}
+    htmlFor="123"
+    suppressContentEditableWarning={true}
+  >
+    some note
+  </label>
+  <div
+    className="sc-gsnTZi fFWGpK"
+  >
+    <input
+      checked={false}
+      className="sc-hKMtZM klVUjV"
+      id="123some note"
+      onChange={[Function]}
+      type="checkbox"
+    />
+    <button
+      className="sc-eCYdqJ fzDQYo"
+      onClick={[Function]}
+    >
+      Edit
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders with completed=true 1`] = `
+<div
+  className="sc-bczRLJ hPwQWx"
+>
+  <label
+    className="sc-dkzDqf cHkOaT"
+    contentEditable={false}
+    htmlFor="123"
+    suppressContentEditableWarning={true}
+  >
+    some note
+  </label>
+  <div
+    className="sc-gsnTZi fFWGpK"
+  >
+    <input
+      checked={true}
+      className="sc-hKMtZM klVUjV"
+      id="123some note"
+      onChange={[Function]}
+      type="checkbox"
+    />
+    <button
+      className="sc-eCYdqJ fzDQYo"
+      onClick={[Function]}
+    >
+      Edit
+    </button>
+  </div>
+</div>
+`;
